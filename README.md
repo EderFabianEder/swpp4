@@ -1,5 +1,5 @@
 # Mein Repository
 
 - eins
-- 2
+- zwei
 - drei
