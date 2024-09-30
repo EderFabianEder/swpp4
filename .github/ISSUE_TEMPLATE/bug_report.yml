@@ -1,12 +1,13 @@
 name: Bug report
 description: Fill out a bug report
 body:
- - type: textarea
-    attributes:
-      label: Bug description
-      description: Specify your problem
-    validations:
-      required: true
+- type: textarea
+  attributes:
+    label: Bug description
+    description: Specify your problem
+  validations:
+    required: true
+
 - type: dropdown
   attributes:
     label: Platform
