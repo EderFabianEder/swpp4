@@ -3,7 +3,7 @@ description: Fill out a bug report
 body:
 - type: dropdown
   attributes:
-    label: Platfrom
+    label: Platform
     description: Specify your platform
     options:
     - Windows
