@@ -1,0 +1,14 @@
+name: Bug report
+description: Fill out a bug report
+body:
+- type: dropdown
+  attributes:
+    label: Platfrom
+    description: Specify your platform
+    options:
+    - Windows
+    - macOS
+    - iOS
+    - Android
+  validations:
+    required: true
