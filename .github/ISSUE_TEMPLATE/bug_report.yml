@@ -2,7 +2,7 @@ name: Bug report
 description: Fill out a bug report
 body:
 
- - type: textarea
+ - type: text
     attributes:
       label: Bug description
       description: What happened? What did you expect to happen? Feel free to drop any screenshots in here.
